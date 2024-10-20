@@ -1431,6 +1431,11 @@ img {
   vertical-align: middle;
 }
 
+.imagen-reducida {
+  width: 500px;
+  height: 500px;
+}
+
 .img-responsive {
   display: block;
   max-width: 100%;
@@ -1613,6 +1618,15 @@ mark,
 
 .text-center {
   text-align: center;
+
+}
+
+.titulo-grande {
+  font-size: 80px;
+}
+
+.subtitulo-grande {
+  font-size: 38px;
 }
 
 .text-justify {
